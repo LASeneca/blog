@@ -5,9 +5,9 @@ category: literature
 layout: post
 ---
 
-Testing the math mode here. A vector can be decomposed in any coordinate system we please, so
+Testing the math mode here. We express an arbitrary vector $\mathbf V$ in this basis using components $$V_k = \hat e_k \cdot \mathbf V$$. A vector can be decomposed in any coordinate system we please, so
 \begin{equation}
-\mathbb{V} = V_1 \hat e_1 + V_2 \hat e_2 + V_3 \hat e_3.
+\mathbf{V} = V_1 \hat e_1 + V_2 \hat e_2 + V_3 \hat e_3.
 \end{equation}
 
 
