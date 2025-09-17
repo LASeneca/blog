@@ -17,11 +17,11 @@ title: MarineT44
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   Take a deep breath.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/main" # the subpath of your site, e.g. /blog
 url: "https://laseneca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+# twitter_username: patdryburgh
+# github_username:  patdryburgh
 
 # Build settings
 markdown: kramdown
