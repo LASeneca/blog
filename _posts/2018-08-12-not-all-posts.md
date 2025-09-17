@@ -2,7 +2,7 @@
 title: ""
 layout: post
 author: "Pat Dryburgh"
-categories: opinion
+categories: archive
 ---
 
 Not all posts need a title.
